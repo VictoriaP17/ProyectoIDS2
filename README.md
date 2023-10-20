@@ -2,6 +2,7 @@
 
 Documentación y diagramas dentro de la carpeta Documentacion_Diagramas
 Código tanto de sitio web como de base de datos dentro de la carpeta codigo
+Avances hasta el segundo parcial en la presentación de PowerPoint
 
 Proyecto realizado por:
 Kristian Alonso Díaz Rubio
